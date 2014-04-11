@@ -1,5 +1,5 @@
 # reply.el
-*reply.el* is Emacs front end of [Reply](https://github.com/doy/reply).
+**reply.el** is Emacs front end of [Reply](https://github.com/doy/reply).
 
 
 ## screenshot
@@ -20,7 +20,7 @@ Send region to reply REPL process.
 
 ## Sample Configuration
 
-```elisp
+```lisp
 (require 'reply)
 
 (defun reply-other-window ()
